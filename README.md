@@ -24,29 +24,26 @@ This project aims to provide a **self-hosted** environment where players and sto
   Installed directly on the Storyteller’s personal machine (localhost). The network connection is managed entirely by the host.
 
 - **Access and Security:**  
-  The Storyteller has a master account with password management and user administration features.  
+  The Storyteller has a master account with password management.  
   Each Player has their own login and can update their credentials safely.
 
 - **Session Management:**  
   A single Storyteller can host multiple game tables.  
-  Each session maintains its own set of characters, rules, and logs.
+  Each session maintains its own set of characters and rules.
 
 - **Character Sheet System:**  
-  Storytellers can create and assign blank sheets to players.  
+  Storytellers can create and assign blank sheets to sessions and this to players.  
   Players can fill and update their sheets during gameplay — tracking evolution, damage, willpower, and more.  
   Storytellers have both summarized and detailed views of each sheet.
 
 - **Chronicle Tracking:**  
-  Sessions and characters are persisted locally, allowing long-term management of ongoing stories.
+  Sessions and characters are persisted locally, allowing long-term management of ongoing sheets.
 
 - **Patreon Integration:**  
-  - A dynamic **Patrons List** available inside the system.  
+  - A dynamic **Patrons List** available inside the system.
   - Random background appearances for patrons.  
   - Exclusive showcase for **Antediluvian-tier** supporters.  
-  - Monthly publication on YouTube every 13th night, featuring patron names.
-
-- **Atmosphere Preservation:**  
-  A design inspired by gothic themes — shadows, mystery, and elegance — keeping fidelity to the *World of Darkness* experience.
+  - Monthly publication on YouTube every 13th day of each month, featuring patron names.
 
 ---
 
